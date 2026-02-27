@@ -272,9 +272,6 @@ body {
     background: var(--bg-section-alt);
 }
 
-.section:nth-of-type(odd) {
-    /* you can comment this out if you don't want alternating effect */
-}
 
 .section-header {
     max-width: 1000px;
